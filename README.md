@@ -15,6 +15,7 @@
   
   ##
  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=2F80ED&background=D5E5FB1D&lines=I'm+a+full-stack+web+developer.;+Thanks+for+stopping+by!;Connect+with+me%3A)](https://git.io/typing-svg)
 <div> 
   <a href = "mailto:tfsengenharia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eng-civil-thiago-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
